@@ -42,15 +42,15 @@ a {
 }
 
 a:nth-child(2) {
-    opacity: 40%;
+    opacity: 45%;
 }
 
 a:hover {
-    opacity: 0.4;
+    opacity: .4;
 }
 
 a:active {
-    opacity: 0.8;
+    opacity: .8;
 }
 
 header {
@@ -63,7 +63,7 @@ p {
     width: 540px;
     color: #5D5D7D;
     line-height: 48px;
-    opacity: 60%;
+    opacity: 55%;
     margin: 15px 0;
 
 }
