@@ -10,8 +10,7 @@
 <h2>Imagens do Projeto</h2>
 <br>
 <h3>Computer Project:</h3>
-<img src="https://github.com/Weverton11/Easy-Shopping/blob/main/Assets/Desktop.png?raw=true"/>
-<br>
-<br>
+<img align="left" width="750px" src="https://github.com/Weverton11/Easy-Shopping/blob/main/Assets/Desktop.png?raw=true"/>
+
 <h3>Mobile Project:</h3>
-<img src="https://github.com/Weverton11/Easy-Shopping/blob/main/Assets/Mobile.png?raw=true"/>
+<img width="200px" src="https://github.com/Weverton11/Easy-Shopping/blob/main/Assets/Mobile.png?raw=true"/>
