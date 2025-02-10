@@ -12,5 +12,6 @@
 <h3>Computer Project:</h3>
 <img src="https://github.com/Weverton11/Easy-Shopping/blob/main/Assets/Desktop.png?raw=true"/>
 <br>
+<br>
 <h3>Mobile Project:</h3>
-<img src=">
+<img src="https://github.com/Weverton11/Easy-Shopping/blob/main/Assets/Mobile.png?raw=true"/>
