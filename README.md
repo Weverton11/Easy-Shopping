@@ -6,3 +6,11 @@
   <code align="left"><img height="30px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></code>
   <code align="left"><img height="30px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"></code>
 </h2>
+
+<h2>Imagens do Projeto</h2>
+<br>
+<h3>Computer Project:</h3>
+<img src="https://github.com/Weverton11/Easy-Shopping/blob/main/Assets/Desktop.png?raw=true"/>
+<br>
+<h3>Mobile Project:</h3>
+<img src=">
